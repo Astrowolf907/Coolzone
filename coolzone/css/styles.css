@@ -1,0 +1,18 @@
+html {
+    display: flex;
+    background-color: black;
+    color: wheat;
+    text-align: center;
+}
+main {
+    margin: auto;
+    border: white 2px solid;
+    color: whitesmoke;
+    background-color: darkblue;
+    width: 50%;
+    height: auto;
+}
+article {
+    background-color: darkslateblue;
+
+}
